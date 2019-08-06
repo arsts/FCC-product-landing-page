@@ -15,7 +15,24 @@ li {
   max-width: 300px;
 }
 
+/* Features */
+.fas {
+  font-size: 3em;
+}
+
+
+/* Prices */
+
+#pricing {
+  margin-top: 60px;
+}
 
 .card-text > ol {
   padding: 0px;
+}
+
+/* how it works */
+#video {
+  max-width: 560px;
+  width: 100%;
 }
