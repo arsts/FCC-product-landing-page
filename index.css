@@ -16,10 +16,23 @@ li {
 }
 
 /* Features */
+#features {
+  margin-top: 30px;
+}
+
 .fas {
   font-size: 3em;
 }
 
+/* how it works */
+#how-it-works {
+  margin-top: 50px;
+}
+
+#video {
+  max-width: 560px;
+  width: 100%;
+}
 
 /* Prices */
 
@@ -31,8 +44,8 @@ li {
   padding: 0px;
 }
 
-/* how it works */
-#video {
-  max-width: 560px;
-  width: 100%;
+/* FOOTER */
+
+footer {
+  margin-top: 30px;
 }
